@@ -1,5 +1,5 @@
 package Sorting;
-
+import Sorting.*;
 public class Main {
 
 	/**
